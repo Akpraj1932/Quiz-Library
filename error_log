@@ -1,0 +1,2 @@
+[08-Sep-2023 18:25:13 Asia/Kolkata] PHP Notice:  Undefined variable: total_question in /home/perfectb/quiz.perfectblog.uk/get-list.php on line 111
+[08-Sep-2023 18:25:13 Asia/Kolkata] PHP Notice:  Undefined index: no_of_que in /home/perfectb/quiz.perfectblog.uk/get-list.php on line 132
